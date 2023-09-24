@@ -1,8 +1,4 @@
-# tutoriales
 
-data(mtcars)
-
-names(mtcars)
 
 x <- table(mtcars$cyl)
 
